@@ -1,1 +1,2 @@
-# workshop2
+# About
+how to work with branches
